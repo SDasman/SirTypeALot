@@ -1,2 +1,0 @@
-# SirTypeALot
-TypeScript Shenanigans
